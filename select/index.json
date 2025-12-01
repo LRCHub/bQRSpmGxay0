@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Talking Box (Dirty Pop Remix)",
+  "base_artist": "WurtS",
+  "createdAt": "2025-12-01T03:26:47.835661Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Talking",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/01_Love_Talking_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Talking In Your Sleep",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/02_Talking_In_Your_Sleep_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Talking In Your Sleep (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/03_Talking_In_Your_Sleep_(Album_Version)_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Talking / 為我好 (Live)",
+      "artist": "Fish Leong",
+      "has_synced": false,
+      "path": "select/04_Talking___為我好_(Live)_Fish_Leong.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet Talking Baby",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/05_Sweet_Talking_Baby_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "뻔&Fun (Sweet Talking Baby)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/06_뻔&Fun_(Sweet_Talking_Baby)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "뻔&Fun (Sweet Talking Baby)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/07_뻔&Fun_(Sweet_Talking_Baby)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm Talking to You",
+      "artist": "Mary Lou Lord",
+      "has_synced": false,
+      "path": "select/08_I'm_Talking_to_You_Mary_Lou_Lord.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stop Talking",
+      "artist": "Memory Tapes",
+      "has_synced": false,
+      "path": "select/09_Stop_Talking_Memory_Tapes.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "R We Talking Long",
+      "artist": "Nite Jewel",
+      "has_synced": true,
+      "path": "select/10_R_We_Talking_Long_Nite_Jewel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Talking, Talking",
+      "artist": "New Young Pony Club",
+      "has_synced": false,
+      "path": "select/11_Talking,_Talking_New_Young_Pony_Club.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Talking Loud And Clear",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": false,
+      "path": "select/12_Talking_Loud_And_Clear_Orchestral_Manoeuvres_In_the_Dark.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Look Who's Talking",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/13_Look_Who's_Talking_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All The Talking",
+      "artist": "Tiffany",
+      "has_synced": true,
+      "path": "select/14_All_The_Talking_Tiffany.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "(It's Not Me) Talking",
+      "artist": "A Flock of Seagulls",
+      "has_synced": true,
+      "path": "select/15_(It's_Not_Me)_Talking_A_Flock_of_Seagulls.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Children Talking",
+      "artist": "AFX",
+      "has_synced": false,
+      "path": "select/16_Children_Talking_AFX.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Look Who's Talking",
+      "artist": "Dr. Alban",
+      "has_synced": true,
+      "path": "select/17_Look_Who's_Talking_Dr._Alban.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Talking Body",
+      "artist": "Tove Lo",
+      "has_synced": false,
+      "path": "select/pl_01_Talking_Body_Tove_Lo.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "talking",
+      "artist": "Tove Lo",
+      "has_synced": false,
+      "path": "select/pl_02_talking_Tove_Lo.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "talking (Anime Size)",
+      "artist": "Tove Lo",
+      "has_synced": false,
+      "path": "select/pl_03_talking_(Anime_Size)_Tove_Lo.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "talking",
+      "artist": "Tove Lo",
+      "has_synced": false,
+      "path": "select/pl_04_talking_Tove_Lo.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "talking",
+      "artist": "Tove Lo",
+      "has_synced": false,
+      "path": "select/pl_05_talking_Tove_Lo.txt"
+    }
+  ]
+}
